@@ -1,0 +1,18 @@
+<form (ngSubmit)="guardar(formulario)" #formulario="ngForm">
+    Ingresar ID
+    <input type="text" name="id" [(ngModel)]="id">
+
+    Ingresar Nombre
+    <input type="text" name="nombre" [(ngModel)]="nombre">
+
+    Ingresar Categoria
+    <input type="text" name="categoria" [(ngModel)]="categoria">
+    
+    Ingresar Precio
+    <input type="text" name="precio" [(ngModel)]="precio">
+
+    Ingresar Descripcion
+    <input type="text" name="descripcion" [(ngModel)]="descripcion">
+
+    <button class="btn btn-primary" type="submit">Guardar</button>
+</form>

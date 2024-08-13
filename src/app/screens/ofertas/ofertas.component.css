@@ -1,0 +1,37 @@
+.thumbnail {
+    position: relative;
+    display: block;
+    padding: 10px;
+    margin: 10px auto;
+    max-width: 100%; /* Asegura que el thumbnail no exceda el ancho del contenedor */
+    background-color: #f0f0f0; /* Color de fondo opaco y suave */
+    border-radius: 10px; /* Bordes redondeados para un diseño más elegante */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave para dar profundidad */
+    transition: transform 0.2s ease; /* Animación suave al hacer hover */
+}
+
+.thumbnail:hover {
+    transform: scale(1.05); /* Efecto de zoom al hacer hover */
+}
+
+.thumbnail img {
+    width: 100%; /* Hace la imagen responsive */
+    height: auto; /* Mantiene la proporción */
+    max-width: 200px; /* Ajusta el ancho máximo */
+    max-height: 150px; /* Ajusta la altura máxima */
+    object-fit: cover; /* Asegura que la imagen cubra el área sin distorsión */
+    border-radius: 8px; /* Redondea los bordes de la imagen */
+}
+
+.caption {
+    padding: 10px;
+    background-color: #ffffff; /* Fondo blanco para contraste */
+    text-align: center; /* Centra el texto en la leyenda */
+    border-radius: 8px; /* Bordes redondeados para la leyenda */
+    color: #333; /* Color de texto suave */
+}
+
+.thumbnail .caption p {
+    margin: 5px 0; /* Margen reducido para los párrafos */
+    font-size: 14px; /* Tamaño de fuente ajustado */
+}

@@ -1,0 +1,172 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop Acer Aspire",
+      "categoria": "Electrónica",
+      "precio": 599.99,
+      "descripcion": "Laptop Acer Aspire de 15.6 pulgadas con procesador Intel Core i5, 8GB de RAM y 512GB de almacenamiento SSD. Ideal para tareas diarias y trabajo profesional.",
+      "imagen_url": "https://images-cdn.ubuy.co.id/633ac039315a5a5a6a2e052e-acer-nitro-5-15-6-quot-laptop.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Smartphone Samsung Galaxy S21",
+      "categoria": "Electrónica",
+      "precio": 799.99,
+      "descripcion": "Smartphone Samsung Galaxy S21 con pantalla Dynamic AMOLED 2X de 6.2 pulgadas, cámara triple de 64MP, y batería de 4000mAh. Rendimiento de primera para uso diario y multimedia.",
+      "imagen_url": "https://celumania.com.ec/wp-content/uploads/2021/10/TELEFONO-SAMSUNG-GALAXY-S21-5G-8256GB-BLANCO.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Teclado Mecánico Logitech",
+      "categoria": "Accesorios",
+      "precio": 89.99,
+      "descripcion": "Teclado mecánico Logitech con switches mecánicos Romer-G, retroiluminación RGB y diseño compacto. Ideal para gaming y escritura rápida.",
+      "imagen_url": "https://www.muycomputerpro.com/wp-content/uploads/2021/02/logitech_g_pro_x_mechanical_gaming_keyboard.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Mouse Cooler Master",
+      "categoria": "Accesorios",
+      "precio": 29.99,
+      "descripcion": "Mouse Cooler Master MM831 con sensor óptico de alta precisión, retroiluminación RGB y botones programables. Perfecto para juegos y productividad.",
+      "imagen_url": "https://sm.pcmag.com/t/pcmag_uk/review/c/cooler-mas/cooler-master-mm831-wireless-gaming-mouse_wtez.1920.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Monitor Dell 24 pulgadas",
+      "categoria": "Electrónica",
+      "precio": 199.99,
+      "descripcion": "Monitor Dell de 24 pulgadas con resolución Full HD, tecnología IPS y tiempo de respuesta de 5ms. Ideal para trabajo y entretenimiento.",
+      "imagen_url": "https://images-cdn.ubuy.co.in/63429b44630cc506b94a5a75-dell-240hz-gaming-monitor-24-5-inch-full.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Impresora HP LaserJet",
+      "categoria": "Electrónica",
+      "precio": 149.99,
+      "descripcion": "Impresora HP LaserJet con impresión en blanco y negro, velocidad de impresión de hasta 30 páginas por minuto y capacidad de manejo de papel de 250 hojas.",
+      "imagen_url": "https://m.media-amazon.com/images/I/71UzX9YGEQL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Auriculares Sony WH-1000XM4",
+      "categoria": "Accesorios",
+      "precio": 349.99,
+      "descripcion": "Auriculares Sony WH-1000XM4 con cancelación de ruido activa, hasta 30 horas de batería, y sonido de alta resolución. Ideal para escuchar música sin distracciones.",
+      "imagen_url": "https://proaccesorios.com/wp-content/uploads/2023/09/SONY-CH520-BEIGE.webp"
+    },
+    {
+      "id": 8,
+      "nombre": "Cámara Canon EOS Rebel T7",
+      "categoria": "Fotografía",
+      "precio": 449.99,
+      "descripcion": "Cámara réflex digital Canon EOS Rebel T7 con sensor APS-C de 24.1MP, pantalla LCD de 3 pulgadas y conectividad Wi-Fi. Perfecta para fotografía profesional y amateur.",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_735544-MLA45062456113_032021-O.webp"
+    },
+    {
+      "id": 9,
+      "nombre": "Tablet Apple iPad",
+      "categoria": "Electrónica",
+      "precio": 329.99,
+      "descripcion": "Tablet Apple iPad con pantalla Retina de 10.2 pulgadas, chip A13 Bionic, y almacenamiento de 64GB. Ideal para trabajo, estudio y entretenimiento.",
+      "imagen_url": "https://think-ecuador.com/wp-content/uploads/2021/11/ipad-mini-select-202109_FMT_WHH.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Smartwatch Apple Watch Series 6",
+      "categoria": "Accesorios",
+      "precio": 399.99,
+      "descripcion": "Smartwatch Apple Watch Series 6 con pantalla Always-On, sensor de oxígeno en sangre, y seguimiento de fitness. Ideal para monitorear tu salud y actividad física.",
+      "imagen_url": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-series7_hero_09142021_big.jpg.slideshow-medium_2x.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Disco Duro Externo Seagate 2TB",
+      "categoria": "Almacenamiento",
+      "precio": 89.99,
+      "descripcion": "Disco duro externo Seagate de 2TB con conectividad USB 3.0. Ideal para almacenamiento adicional y backup de datos.",
+      "imagen_url": "https://tecnit.com.ec/wp-content/uploads/2023/11/ST2000DM006.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Router TP-Link Archer C7",
+      "categoria": "Redes",
+      "precio": 79.99,
+      "descripcion": "Router TP-Link Archer C7 con tecnología Wi-Fi AC1750, 3 antenas externas y capacidad de red de hasta 1750 Mbps. Ideal para conexiones rápidas y estables en el hogar.",
+      "imagen_url": "https://comsucre.com.ec/wp-content/uploads/2021/12/4-TG.RO_.AC1750.png"
+    },
+    {
+      "id": 13,
+      "nombre": "Altavoz Bluetooth JBL",
+      "categoria": "Audio",
+      "precio": 99.99,
+      "descripcion": "Altavoz Bluetooth JBL con sonido potente, batería de larga duración y resistencia al agua. Perfecto para llevar la música contigo a cualquier lugar.",
+      "imagen_url": "https://www.bestcell.com.ec/imgadmin/storage/imagenes_articulos/1548/7822.jpg.webp"
+    },
+    {
+      "id": 14,
+      "nombre": "Cargador Portátil Anker 20000mAh",
+      "categoria": "Accesorios",
+      "precio": 49.99,
+      "descripcion": "Cargador portátil Anker de 20000mAh con doble puerto USB y tecnología de carga rápida. Ideal para cargar tus dispositivos en movimiento.",
+      "imagen_url": "https://m.media-amazon.com/images/I/71s9NDno3FL._AC_SL1193_.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Memoria USB Kingston 32GB",
+      "categoria": "Almacenamiento",
+      "precio": 14.99,
+      "descripcion": "Memoria USB Kingston de 32GB con velocidad de transferencia rápida. Ideal para almacenar y transportar datos fácilmente.",
+      "imagen_url": "https://dannyrecords.com.ec/wp-content/uploads/2020/03/ZZ-32-FLASH-MEMORY-KINGSTON.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Silla Gamer Razer Iskur",
+      "categoria": "Muebles",
+      "precio": 499.99,
+      "descripcion": "Silla gamer Razer Iskur con soporte lumbar ajustable, material de alta calidad y diseño ergonómico. Ideal para largas sesiones de juego o trabajo.",
+      "imagen_url": "https://www.mtec-ec.com/wp-content/uploads/2021/09/TAROKESSENTIALS.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Proyector Epson Home Cinema",
+      "categoria": "Electrónica",
+      "precio": 549.99,
+      "descripcion": "Proyector Epson Home Cinema con resolución Full HD, 3000 lúmenes de brillo y tecnología 3LCD. Ideal para ver películas y presentaciones en casa.",
+      "imagen_url": "https://cdn.cs.1worldsync.com/syndication/mediaserverredirect/966786b338800000e1f3c385a9c80dc4/width(1200).jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Smart TV LG 55 pulgadas 4K",
+      "categoria": "Electrónica",
+      "precio": 649.99,
+      "descripcion": "Smart TV LG de 55 pulgadas con resolución 4K UHD, tecnología HDR y sistema operativo webOS. Ideal para disfrutar de contenido en alta definición.",
+      "imagen_url": "https://http2.mlstatic.com/D_NQ_NP_812607-MLU73787165348_012024-O.webp"
+    },
+    {
+      "id": 19,
+      "nombre": "Consola PlayStation 5",
+      "categoria": "Videojuegos",
+      "precio": 499.99,
+      "descripcion": "Consola de videojuegos PlayStation 5 con soporte para juegos en 4K, almacenamiento SSD de ultra velocidad y retrocompatibilidad. Ideal para gamers que buscan la mejor experiencia de juego.",
+      "imagen_url": "https://i5.walmartimages.com/seo/Sony-PlayStation-5-Video-Game-Console-Ps5-Disc-Console-New_396aa760-b2f6-4c06-8dc5-276184a85dc6.0d8c80439262394fc4edabb03056daa3.jpeg"
+    },
+    {
+      "id": 20,
+      "nombre": "Controlador MIDI Akai MPK Mini",
+      "categoria": "Instrumentos Musicales",
+      "precio": 119.99,
+      "descripcion": "Controlador para DJ profesional con todas las funcionalidades y modos disponibles",
+      "imagen_url": "https://m.media-amazon.com/images/I/81WawIM64QL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 21,
+      "nombre": "celular iphone ",
+      "categoria": "celulares",
+      "precio": "999.99",
+      "descripcion": "IPHONE 14 pro MAX actualizado a la fecha ",
+      "imagen_url": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111846_sp875-sp876-iphone14-pro-promax.png"
+    }
+  ]
+}
